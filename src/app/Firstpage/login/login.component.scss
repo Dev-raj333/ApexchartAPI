@@ -1,0 +1,39 @@
+.login{
+    border: none;
+    border-radius: 8px;
+    width:340px;
+    height: 360px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #4f4f4fff;
+
+}
+.logo1{
+    color: #FDDB3A;
+}
+.logo2{
+    color: #00BBF0;
+}
+.logo1 ,.logo2{
+    font-size: 35px;
+    font-weight: 700;
+}
+h1{
+    margin-left:70px ;
+    margin-bottom: 40px;
+}
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+form a, mat-label{
+    color:#fff;
+}  
+.example-full-width {
+    width: 100%;
+    color: #fff;
+}

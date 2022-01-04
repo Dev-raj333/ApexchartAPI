@@ -1,0 +1,41 @@
+{
+  "areachart":[
+    {
+      "data": [90,40,28,51,42,109,100],
+      "data2": [11,32,45,32,34,52,41],
+      "data3": [44,32,45,90,34,52,46]
+    }
+  ],
+  "chart":[
+    {
+      "x":"new Date(1538884800000)",
+      "y":"[6604.98, 6606, 6604.07, 6606]"
+    }
+  ],
+  "admin": [
+    {
+      "fname": "Devraj ",
+      "phone": "98000000000",
+      "email": "devraj@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
